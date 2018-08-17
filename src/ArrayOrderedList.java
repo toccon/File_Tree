@@ -1,9 +1,5 @@
 /**
  * ArrayOrderedList represents an array implementation of an ordered list.
- *
- * @author Dr. Lewis
- * @author Dr. Chase
- * @version 1.0, 08/12/08
  */
 
 public class ArrayOrderedList<T> extends ArrayList<T>
