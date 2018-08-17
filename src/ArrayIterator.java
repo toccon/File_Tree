@@ -1,9 +1,5 @@
 /**
  * ArrayIterator represents an iterator over the elements of an array.
- * 
- * @author Dr. Lewis
- * @author Dr. Chase
- * @version 1.0, 8/19/08
  */
 import java.util.*;
 
